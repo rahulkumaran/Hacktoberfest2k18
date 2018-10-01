@@ -6,5 +6,4 @@
 | 4 | Sean B | <a href="https://github.com/seanysean">seanysean</a> | New Brunswick, Canada | HTML, CSS |
 | 5 | Tim Ruiterkamp | <a href="https://github.com/timruiterkamp">Tim Ruiterkamp</a> | Amsterdam, Netherlands | Javascript, node |
 | 6 | Vaibhav Khulbe | <a href="https://github.com/Kvaibhav01">Kvaibhav01</a> | Ghaziabad, India | Android, Flutter, Front-end web |
-
-
+| 7 | Tanay Toshniwal | <a href="https://github.com/tanaytoshniwal">tanaytoshniwal</a> | Jaipur, India | MEAN Stack, Ionic Framework, Android, Java |
