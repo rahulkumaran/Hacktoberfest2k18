@@ -2,3 +2,4 @@
 |------|------|-----------|---------------------|------------------------------------|
 | 1 | Rahul Arulkumaran | <a href="https://github.com/rahulkumaran">rahulkumaran</a> | Hyderabad, India | Python, Full Stack, ML, Data Science |
 | 2 | Juan Luis C. | <a href="https://github.com/luizhdz">Luiz Hdz</a> | Monterrey, Mexico | Python, JS, Ruby, PHP |
+| 3 | Sean B | <a href="https://github.com/seanysean">seanysean</a> | New Brunswick, Canada | HTML, CSS |
