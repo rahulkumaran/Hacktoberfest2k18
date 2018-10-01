@@ -5,7 +5,6 @@
 | 3 | André Monteiro | <a href="https://github.com/AndreAlbuquerque9">André Albuquerque</a> | Pernambuco, Brazil | JS, Java, C# |
 | 4 | Sean B | <a href="https://github.com/seanysean">seanysean</a> | New Brunswick, Canada | HTML, CSS |
 | 5 | Tim Ruiterkamp | <a href="https://github.com/timruiterkamp">Tim Ruiterkamp</a> | Amsterdam, Netherlands | Javascript, node |
-| 6 | Sean B | <a href="https://github.com/seanysean">seanysean</a> | New Brunswick, Canada | HTML, CSS |
-| 7 | Vaibhav Khulbe | <a href="https://github.com/Kvaibhav01">Kvaibhav01</a> | Ghaziabad, India | Android, Flutter, Front-end web |
+| 6 | Vaibhav Khulbe | <a href="https://github.com/Kvaibhav01">Kvaibhav01</a> | Ghaziabad, India | Android, Flutter, Front-end web |
 
 
