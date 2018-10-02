@@ -1,4 +1,4 @@
-# Hacktoberfest2k18
+# Hacktoberfest 2k18
 
 <a href="hactoberfest.digitalocean.com">Hacktoberfest</a> is an initiative by GitHub and Digital Ocean to get more people involved in Open Source. This year, even Twilio has joined hands with them.<br>
 
