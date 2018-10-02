@@ -8,5 +8,6 @@
 | 6 | Vaibhav Khulbe | <a href="https://github.com/Kvaibhav01">Kvaibhav01</a> | Ghaziabad, India | Android, Flutter, Front-end web |
 | 7 | Tanay Toshniwal | <a href="https://github.com/tanaytoshniwal">tanaytoshniwal</a> | Jaipur, India | MEAN Stack, Ionic Framework, Android, Java |
 | 8 | Renat Nagaev | <a href="https://github.com/renagaev">renagaev</a> | Tambov, Russia | Python |
+| 9 | Saurabh Yadav | <a href="https://github.com/saurabhyadav007">saurabhyadav007</a> | Varanasi | C++ |
 
 
