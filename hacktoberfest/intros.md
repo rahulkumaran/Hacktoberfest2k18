@@ -9,5 +9,5 @@
 | 7 | Tanay Toshniwal | <a href="https://github.com/tanaytoshniwal">tanaytoshniwal</a> | Jaipur, India | MEAN Stack, Ionic Framework, Android, Java |
 | 8 | Renat Nagaev | <a href="https://github.com/renagaev">renagaev</a> | Tambov, Russia | Python |
 | 9 | Rishabh Singh | <a href="https://github.com/R3abh">R3abh</a> | Hyderabad, India | Web Technologies |
-
+| 10| Jayesh Jain | <a href="https://github.com/jayeshjain77">jayeshjain77</a> | Hyderabad, India | ML, Python |
 
